@@ -41,6 +41,7 @@ public class Main {
 
         if(what.equals("programmēšanas pamati")){
             System.out.println("Ou jē! Bet šis bija viegli. Būtu dīvaini, ja Tu nezinātu.");
+		System.out.println("Foršu dienu! Atā!");
         } else {
             do {
                 System.out.println("Stop, stop, stop. Iespējams, ka kāds ir apmaldījies. Mēģini vēlreiz.");
